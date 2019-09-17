@@ -1,5 +1,9 @@
 # signTypedData_script
 
 ## Steps to run
-- npm i
+```
+- Clone the repo
+- cd signTypedData_script && npm i
 - node test.js
+
+```
