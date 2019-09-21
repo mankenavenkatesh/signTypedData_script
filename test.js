@@ -35,4 +35,7 @@ console.log('for address ' + address)
 console.log("Sign - - " + sigature);
 
 const recaddress = sigUtil.recoverTypedSignature({data : typedData, sig : sigature});
-console.log("Recovered Address -" + recaddress);
+console.log(" Address recovered -" + recaddress);
+
+
+
